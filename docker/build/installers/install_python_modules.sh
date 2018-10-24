@@ -21,6 +21,7 @@ set -e
 
 cd "$(dirname "${BASH_SOURCE[0]}")"
 
+apt-get update -y
 apt-get install -y \
    libgeos-dev \
    libleveldb-dev \

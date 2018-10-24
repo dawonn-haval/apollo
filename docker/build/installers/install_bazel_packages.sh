@@ -48,3 +48,5 @@ wget -O tinyxml2-5.0.1.zip \
     https://github.com/leethomason/tinyxml2/archive/5.0.1.zip
 wget -O protobuf-3.3.0.tar.gz \
     https://github.com/google/protobuf/releases/download/v3.3.0/protobuf-cpp-3.3.0.tar.gz
+wget -O googlestyleguide-20181221.zip \
+    https://github.com/google/styleguide/archive/159b4c81bbca97a9ca00f1195a37174388398a67.zip
